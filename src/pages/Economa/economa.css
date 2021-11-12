@@ -1,0 +1,31 @@
+.wrapper {
+    padding: 20px;
+    /* margin-right: 70px; */
+    margin-left: 250px;
+    margin-top: 50px;
+    background: azure;
+    box-shadow: 12px 12px 2px 1px ;
+    border:none;
+    border-radius:10px;
+  }
+  .body{
+    margin-left: 150px; 
+  }
+  input{
+    padding: 0.2rem 0.5rem;
+	font-size: 1rem;
+	background-color: transparent;
+	border: 2px solid #8da9c4;
+	border-radius: 0.3em;
+	color: #061323;
+	transition: background-color 0.6s ease;
+  }
+  select {
+    padding: 0.2rem 0.5rem;
+	font-size: 1rem;
+	background-color: transparent;
+	border: 2px solid #8da9c4;
+	border-radius: 0.3em;
+	color: #061323;
+	transition: background-color 0.6s ease; 
+  }
